@@ -1,0 +1,24 @@
+body{
+	margin: 0px;
+	padding:0px;
+}
+.Interno{
+	width:50px;
+	height: 50px;
+	background: #000000;
+	position: absolute;
+}
+.Medio{
+	width:100px;
+	height: 100px;
+	background:#003300;
+	position: relative;
+	left: 50px;
+	top: 50px;
+}
+.Afuera{
+	width:200px;
+	height: 200px;
+	background: #000099;
+	position: static;
+}
